@@ -2,6 +2,9 @@
 <html lang="en">
 
 <head>
+
+    <link rel="stylesheet" type="text/css" href="CSS/stylesheet.css" />
+
     <title>Bootstrap Eindopdracht</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,23 +14,8 @@
 </head>
 
 <body>
+<?php include 'navbar.php'?>
 
-<div class="dropdown">
-    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Menu
-        <span class="caret"></span>
-    </button>
-    <ul class="dropdown-menu">
-        <li>
-            <a href="#">HTML</a>
-        </li>
-        <li>
-            <a href="#">CSS</a>
-        </li>
-        <li>
-            <a href="#">JavaScript</a>
-        </li>
-    </ul>
-</div>
 
     <div class="container">
         <h1>My First Bootstrap Page</h1>
