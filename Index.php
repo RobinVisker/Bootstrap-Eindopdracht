@@ -2,17 +2,14 @@
 <html lang="en">
 
 <head>
-
+<link rel="stylesheet" href="http://localhost/Bootrstrap/Bootstrap-Eindopdracht/CSS/stylesheet.css"> 
 </head>
 
 <body>
 <?php include 'head.php'?>
 <?php include 'navbar.php'?>
 
-    <div class="container">
-        <h1>Test</h1>
-        <p>Dit is henk.</p>
-    </div>
+    <H1>HOMEPAGE</H1>
 
     
 <?php include 'footer.php'?>
