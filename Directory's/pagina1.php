@@ -2,8 +2,7 @@
 <html lang="en">
 
 <head>
-  <link rel="stylesheet" href="http://localhost/Bootrstrap/Bootstrap-Eindopdracht/CSS/stylesheet.css"> 
-
+<link rel="stylesheet" type="text/css" href="http://localhost/Bootrstrap/Bootstrap-Eindopdracht/CSS/stylesheet.css?ver=<?php echo rand(111,999)?>">
   <script>
 
 
